@@ -4,19 +4,6 @@ excerpt: "This is a ongoing RBM group project for my mphil study in HKUST(GZ).<b
 collection: portfolio
 ---
 
-以下是将PPT内容转换为Markdown格式的文档：
-
-```markdown
-# Group Pre.pptx
-
-## PQA Rehearsal
-
-### Developing Platforms for Ambient Air Quality and Greenhouse Gas (GHG) Measurements
-
-**Presentor:** Zhuman LI  
-**Stu ID:** 50019568  
-**Date:** 2024/12/12
-
 ---
 
 ## 01 Background and Motivation
@@ -26,26 +13,24 @@ collection: portfolio
 - Reducing air pollution and greenhouse gas (GHG) emissions are key tasks for China.
 - Air pollutants and GHGs: not evenly distributed, and diversified with heights.
 - China: more high-rise buildings in cities.
-- References: Apte et al. ES&T. (2017), Stuz et al., JGR. (2004).
+
 
 ### Value we can bring:
+* Innovation in Technology and Methodology
+  * Foundation for the scientific research of air quality
+  * Improving understanding of the spatial distribution of air pollutants and their potential causes
+* Support Environmental Research and Policy
+  * Provide valuable data for researchers, policymakers, and stakeholders to make informed decisions and implement effective strategies
+* Public Health and Environmental Safety
+  * Ensuring a safe and healthy environment
+  * Provide safer air for passengers and pilots of eVTOLs
+* Application Prospects
+  * Feasible for practical applications
+  * Broad application prospects for related equipment 
 
 ---
 
 ## 02 Objective and Cooperation
-
-### Objective 1: Ambient AQ and GHG emission sensor package
-
-- Sensor Package for Ambient Air Quality.
-- Integration.
-
-### Objective 2: Satellite-Sky-Ground GHG Monitoring System
-
-- Establish a satellite-sky-ground GHG monitoring system.
-
-### Objective 3: Analyzing the chemical and physical properties of airborne matter
-
----
 
 ### Objective 1: Ambient AQ and GHG emission sensor package
 
@@ -56,16 +41,13 @@ collection: portfolio
 - Satellite Monitoring: Captures satellite data across extensive geographical areas.
 - Drone Measurement: Provides detailed examination and targeted local analysis in identified area (including flux measurement).
 - Ground Station Analysis: Verifies and calibrates data from satellites and drones, integrating data sources.
-
-### Objective 2: Satellite-Sky-Ground GHG Monitoring System
-
 - Prediction of air quality with high spatial resolution.
-- From satellite to the ground.
-- From now to future.
-- From ground stations to blank spot.
+  - From satellite to the ground.
+  - From now to future.
+  - From ground stations to blank spot.
 - Generating high-quality data that can use for decision and policy making.
 
-### Objective 3: To analyze the chemical and physical properties of airborne matter
+### Objective 3: Analyzing the chemical and physical properties of airborne matter
 
 - Sample collection: Use drone-mounted samplers to collect PM and VOCs.
 - Analyze samples: Examine chemical compositions, physical properties, oxidative potential, and vertical distribution.
@@ -75,28 +57,23 @@ collection: portfolio
 
 ## 03 Progress and Planning
 
-### Completion of data collection and iteration
+### Project Milestones
 
-- Prototype
-- Post-processing
-
-### Phase 1 - Phase 4
-
-- 3/2025
-- 3/2026
-- 7/2026
-- 10/2025
+<br/><img src='/images/overview_rbm.png'>
 
 ### Progress
 
-- Prototype for Prediction Model using satellites.
+#### Prototypes
+- Prototype for Prediction Model using satellites
+- Prototype for Prediction Model combining AI and numerical simulation 
 - Prototype for Sensors.
 
 #### Collaboration
 
 - Group meetings for seven times with three PhD students, four professors, another MPhil student, and one postdoc.
 - Incorporating valuable advice from peers, including roommates, online voices, and document survey.
-- Prototype for Prediction Model combining AI and numerical simulation.
+
+### Resources Identification
 
 ### Utilizing the following equipment and facilities on HKUST-GZ campus
 
@@ -112,13 +89,5 @@ collection: portfolio
 - Drone that can carry enough payload.
 - LI7500DS fast-response CO2 analyzer for eddy covariance measurement.
 - A Vocus-Elf for real-time measurement of VOCs in human-carrying eVTOLs.
-
+  
 ---
-
-## Thank you!
-
-Looking forward to your suggestions!
-```
-
-请注意，Markdown格式主要用于文本内容的排版，对于PPT中的图表、图片和其他视觉元素，Markdown无法直接表示，需要额外的描述或链接来补充。
-
