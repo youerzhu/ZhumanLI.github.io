@@ -38,7 +38,11 @@ collection: portfolio
 
 - A platform for 3D air quality and GHG measurement.
 
+<img src="../images/sensors.png" width=30%> 
+
 #### Objective 2: Satellite-Sky-Ground GHG Monitoring System
+
+ <img src="../images/overview_rbm2.png" width=50%> 
 
 - Satellite Monitoring: Captures satellite data across extensive geographical areas.
 - Drone Measurement: Provides detailed examination and targeted local analysis in identified area (including flux measurement).
@@ -65,10 +69,8 @@ collection: portfolio
 
 ## 03 Progress and Planning
 
-### Project Milestones
+### Project Milestones 
 
-<div align=left>  <img src="../images/overview_rbm2.png" width=50%>  
-</div>
 
 ### Progress
 
