@@ -1,6 +1,6 @@
 ---
 title: "Developing a Platform for Ambient Air Quality and Greenhouse Gas (GHG) Measurements"
-excerpt: "This is a ongoing RBM group project for my mphil study in HKUST(GZ).<br/><img src='/images/overview_rbm.png'>"
+excerpt: "This is a ongoing RBM group project for my mphil study in HKUST(GZ).<br/><img src='../images/overview_rbm.png'>"
 collection: portfolio
 ---
 
@@ -32,11 +32,13 @@ collection: portfolio
 
 ## 02 Objective and Cooperation
 
-### Objective 1: Ambient AQ and GHG emission sensor package
+### Objectives
+
+#### Objective 1: Ambient AQ and GHG emission sensor package
 
 - A platform for 3D air quality and GHG measurement.
 
-### Objective 2: Satellite-Sky-Ground GHG Monitoring System
+#### Objective 2: Satellite-Sky-Ground GHG Monitoring System
 
 - Satellite Monitoring: Captures satellite data across extensive geographical areas.
 - Drone Measurement: Provides detailed examination and targeted local analysis in identified area (including flux measurement).
@@ -47,19 +49,25 @@ collection: portfolio
   - From ground stations to blank spot.
 - Generating high-quality data that can use for decision and policy making.
 
-### Objective 3: Analyzing the chemical and physical properties of airborne matter
+#### Objective 3: Analyzing the chemical and physical properties of airborne matter
 
 - Sample collection: Use drone-mounted samplers to collect PM and VOCs.
 - Analyze samples: Examine chemical compositions, physical properties, oxidative potential, and vertical distribution.
 - Comprehensive analysis: Reveal chemical processes of air airborne particles, pollution transport, and long-range health impacts.
 
+### Collaboration
+
+- Group meetings for seven times with three PhD students, four professors, another MPhil student, and one postdoc.
+- Incorporating valuable advice from peers, including roommates, online 
+- 
 ---
 
 ## 03 Progress and Planning
 
 ### Project Milestones
 
-<br/><img src='/images/overview_rbm.png'>
+![Project Milestones](/images/overview_rbm.png)
+>
 
 ### Progress
 
@@ -67,22 +75,18 @@ collection: portfolio
 - Prototype for Prediction Model using satellites
 - Prototype for Prediction Model combining AI and numerical simulation 
 - Prototype for Sensors.
-
-#### Collaboration
-
-- Group meetings for seven times with three PhD students, four professors, another MPhil student, and one postdoc.
-- Incorporating valuable advice from peers, including roommates, online voices, and document survey.
+voices, and document survey.
 
 ### Resources Identification
 
-### Utilizing the following equipment and facilities on HKUST-GZ campus
+#### Utilizing the following equipment and facilities on HKUST-GZ campus
 
 - Gas Chromatography Mass Spectrometry (GC-MS) at SAERF to measure the VOCs.
 - Vocus-CIMS to analyze offline VOC and PM samples, but heavy for airborne measurement.
 - Environmental simulation chamber to simulate environmental conditions for sensor testing.
 - Plate reader at Bio-CRF for analyzing cell toxicity.
 
-### Other equipment, materials, and supplies need to be purchased
+#### Other equipment, materials, and supplies need to be purchased
 
 - Chemical materials for offline analysis of VOCs and particles.
 - A 3-D anemometer that can measure wind speed at a frequency high enough for eddy covariance measurements.
