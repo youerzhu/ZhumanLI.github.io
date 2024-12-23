@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhuman Li(李竺蔓)'s Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "youerzhu/ZhumanLI.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhuman LI"
+  name             : "Zhuman LI 李竺蔓"
   pronouns         : # example: "she/her"  
   bio              : "mphil student, HKUST(GZ), DS"
   location         : "Guangzhou, China"
