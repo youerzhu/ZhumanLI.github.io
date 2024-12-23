@@ -67,7 +67,8 @@ collection: portfolio
 
 ### Project Milestones
 
-![Project Milestones](../images/overview_rbm2.png)
+<div align=left>  <img src="../images/overview_rbm2.png" width=50%>  
+</div>
 
 ### Progress
 
