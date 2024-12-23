@@ -1,6 +1,6 @@
 ---
 title: "Developing a Platform for Ambient Air Quality and Greenhouse Gas (GHG) Measurements"
-excerpt: "This is a ongoing RBM group project for my mphil study in HKUST(GZ).<br/><img src='../images/overview_rbm.png'>"
+excerpt: "This is a ongoing RBM group project for my mphil study in HKUST(GZ).<br/><img src='../images/overview_rbm2.png'>"
 collection: portfolio
 ---
 
@@ -58,16 +58,16 @@ collection: portfolio
 ### Collaboration
 
 - Group meetings for seven times with three PhD students, four professors, another MPhil student, and one postdoc.
-- Incorporating valuable advice from peers, including roommates, online 
-- 
+- Incorporating valuable advice from peers, including roommates, online voices and document survey.
+
+  
 ---
 
 ## 03 Progress and Planning
 
 ### Project Milestones
 
-![Project Milestones](/images/overview_rbm.png)
->
+![Project Milestones](../images/overview_rbm2.png)
 
 ### Progress
 
