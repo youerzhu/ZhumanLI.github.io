@@ -37,7 +37,9 @@ collection: portfolio
 
 - A platform for 3D air quality and GHG measurement.
 
-![sensors](../../ZhumanLI.github.io/images/sensors.png)
+![sensors](/images/sensors.png)
+![sensors](../images/sensors.png)
+![sensors](../ZhuamnLi.github.io/images/sensors.png)
 
 <img src='../../ZhumanLI.github.io/images/sensors.png' width=50%>
 
