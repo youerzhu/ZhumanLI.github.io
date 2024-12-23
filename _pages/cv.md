@@ -19,7 +19,7 @@ Work experience
 ======
 * Mar.2024 - May.2024: Data Strategy Department Intern
   * Fast Retailing (China) Trading Co., Ltd.
-  * Duties includes: Forecast Model Development and Optimization, Data Processing and Analysis, Tableau Dashboard Development and Maintenance
+  * Duties included: Forecast Model Development and Optimization, Data Processing and Analysis, Tableau Dashboard Development and Maintenance
   * Location: Shanghai, China
 
 * Dec.2023 - Jan.2024: Research Assistant in the Legal Knowledge Engineering Group
@@ -51,12 +51,10 @@ Skills
 
 Project Experience
 ======
-* Research on the Application of Neural Network Models in Evaluating Second-hand Car Transaction Price, Jun.2023
-(independently)
-* Machine Learning-Based Models for Sentiment Recognition and Topic Analysis of Nut Products Shopping Reviews, Jan.2023
-(independently)
-* Study on the effect of the consumers’ cognitive trust on Airbnb   bookings, Oct.2022 - Nov.2022
-   (participated)
+* Developing a Platform for Ambient Air Quality and Greenhouse Gas (GHG) Measurement (ongoing)
+* Research on the Application of Neural Network Models in Evaluating Second-hand Car Transaction Price, Jun.2023 (independently)
+* Machine Learning-Based Models for Sentiment Recognition and Topic Analysis of Nut Products Shopping Reviews, Jan.2023 (independently)
+* Study on the effect of the consumers’ cognitive trust on Airbnb   bookings, Oct.2022 - Nov.2022 (participated)
 
 Awards
 ======
