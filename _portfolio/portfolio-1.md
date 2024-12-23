@@ -38,7 +38,7 @@ collection: portfolio
 
 - A platform for 3D air quality and GHG measurement.
 
-<img src="../images/sensors.png"> 
+<br/><img src="../images/sensors.png"> 
 
 #### Objective 2: Satellite-Sky-Ground GHG Monitoring System
 
