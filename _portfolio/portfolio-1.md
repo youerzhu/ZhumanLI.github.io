@@ -14,7 +14,6 @@ collection: portfolio
 - Air pollutants and GHGs: not evenly distributed, and diversified with heights.
 - China: more high-rise buildings in cities.
 
-
 ### Value we can bring:
 * Innovation in Technology and Methodology
   * Foundation for the scientific research of air quality
@@ -38,11 +37,11 @@ collection: portfolio
 
 - A platform for 3D air quality and GHG measurement.
 
-<br/><img src="../images/sensors.png"> 
+![Sensors](/images/sensors.png)
 
 #### Objective 2: Satellite-Sky-Ground GHG Monitoring System
 
- <img src="../images/overview_rbm2.png" width=50%> 
+<img src="../images/overview_rbm2.png" width=50%>
 
 - Satellite Monitoring: Captures satellite data across extensive geographical areas.
 - Drone Measurement: Provides detailed examination and targeted local analysis in identified area (including flux measurement).
@@ -64,17 +63,16 @@ collection: portfolio
 - Group meetings for seven times with three PhD students, four professors, another MPhil student, and one postdoc.
 - Incorporating valuable advice from peers, including roommates, online voices and document survey.
 
-  
 ---
 
 ## 03 Progress and Planning
 
-### Project Milestones 
-
+### Project Milestones
 
 ### Progress
 
 #### Prototypes
+
 - Prototype for Prediction Model using satellites
 - Prototype for Prediction Model combining AI and numerical simulation 
 - Prototype for Sensors.
@@ -97,4 +95,3 @@ voices, and document survey.
 - LI7500DS fast-response CO2 analyzer for eddy covariance measurement.
 - A Vocus-Elf for real-time measurement of VOCs in human-carrying eVTOLs.
   
----
