@@ -60,10 +60,10 @@ Project Experience
 
 Awards
 ======
-* University-Level Scholarship (top 10% in XJTU), Dec.2022
+* University-Level Scholarship*2 (top 10% in XJTU), Dec.2021&2022
 * Uniqlo Scholarship (only 5 recipients in XJTU), Dec.2022
 * Outstanding Student Leader (top 5% in XJTU), Dec.2021
-* Outstanding Student (top 15% in XJTU)*2, Dec.2022&2023
+* Outstanding Student*2 (top 15% in XJTU), Dec.2022&2023
 * Provincial First Prize in CMC (top 20%), Dec.2021
 * Provincial Second Prize in CUMCM (top 20%),  Dec.2022
 
