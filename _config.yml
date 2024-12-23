@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zhuman Li / Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Zhuman LI"
   pronouns         : # example: "she/her"  
-  bio              : "now mphil(HKUST-gz) in DSA/undergraduated from XJTU"
+  bio              : "now mphil(HKUST-gz) in DSA/graduated from XJTU"
   location         : "Guangzhou, China"
-  employer         : "Hong Kong University of Science and Technology(Guangzhou)"
+  employer         : "HKUST(GZ)"
   uri              : # URL
   email            : "zli898@connect.hkust-gz.edu.cn" 
 
