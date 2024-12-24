@@ -39,8 +39,8 @@ collection: portfolio
 - A platform for 3D air quality and GHG measurement.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="../../images/sensors.png" width="500" height="200" alt="sensors">
-  <img src="../../images/measurement.png" width="500" height="200" alt="measurement">
+  <img src="../../images/sensors.png" width="500" height="160" alt="sensors">
+  <img src="../../images/measurement.png" width="500" height="160" alt="measurement">
 </div>
 
 #### Objective 2: Satellite-Sky-Ground GHG Monitoring System
@@ -116,7 +116,7 @@ collection: portfolio
 - A 3-D anemometer that can measure wind speed at a frequency high enough for eddy covariance measurements.
 - Drone that can carry enough payload.
 
-<img src="../../images/dronr.png" width="300" height="200">
+<img src="../../images/drone.png" width="300" height="200">
 
 - LI7500DS fast-response CO2 analyzer for eddy covariance measurement.
 - A Vocus-Elf for real-time measurement of VOCs in human-carrying eVTOLs.
