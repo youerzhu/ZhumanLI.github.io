@@ -1,6 +1,6 @@
 ---
 title: "Developing a Platform for Ambient Air Quality and Greenhouse Gas (GHG) Measurements"
-excerpt: "This is a ongoing RBM group project for my mphil study in HKUST(GZ).<br/><img src='../images/overview_rbm2.png' width=50%>"
+excerpt: "This is a ongoing RBM group project for my mphil study in HKUST(GZ).<br/><img src='../images/overview_rbm2.png'>"
 collection: portfolio
 ---
 
@@ -32,12 +32,16 @@ collection: portfolio
 ## 02 Objective and Cooperation
 
 ### Objectives
+<img src="../../images/objective.png" width="300" height="200" alt="objective">
 
 #### Objective 1: Ambient AQ and GHG emission sensor package
 
 - A platform for 3D air quality and GHG measurement.
 
-<img src="../../images/sensors.png" width="300" height="200" alt="sensors">
+<div style="display: flex; justify-content: space-between;">
+  <img src="../../images/sensors.png" width="300" height="200" alt="sensors">
+  <img src="../../images/measurement.png" width="300" height="200" alt="measurement">
+</div>
 
 #### Objective 2: Satellite-Sky-Ground GHG Monitoring System
 
@@ -70,29 +74,38 @@ collection: portfolio
 
 ### Project Milestones
 
+<img src="../../images/milestones.png">
+
 ### Progress
 
 #### Prototypes
 
 - Prototype for Prediction Model using satellites
-- Prototype for Prediction Model combining AI and numerical simulation 
+<img src="../../images/prototype_satellites.png" width="300" height="200">
+- Prototype for Prediction Model combining AI and physichemical information.
+<img src="../../images/prototype_physic.png">
 - Prototype for Sensors.
-voices, and document survey.
+<img src="../../images/prototype_sensor.png" width="300" height="200">
 
 ### Resources Identification
 
 #### Utilizing the following equipment and facilities on HKUST-GZ campus
 
 - Gas Chromatography Mass Spectrometry (GC-MS) at SAERF to measure the VOCs.
+<img src="../../images/G.png" width=30%>
 - Vocus-CIMS to analyze offline VOC and PM samples, but heavy for airborne measurement.
+<img src="../../images/V.png" width=30%>
 - Environmental simulation chamber to simulate environmental conditions for sensor testing.
+<img src="../../images/E.png" width=30%>
 - Plate reader at Bio-CRF for analyzing cell toxicity.
+<img src="../../images/P.png" width=30%>
 
 #### Other equipment, materials, and supplies need to be purchased
 
 - Chemical materials for offline analysis of VOCs and particles.
 - A 3-D anemometer that can measure wind speed at a frequency high enough for eddy covariance measurements.
 - Drone that can carry enough payload.
+  <img src="../../images/dronr.png" width=30%>
 - LI7500DS fast-response CO2 analyzer for eddy covariance measurement.
 - A Vocus-Elf for real-time measurement of VOCs in human-carrying eVTOLs.
   
