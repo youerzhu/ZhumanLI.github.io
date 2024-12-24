@@ -1,6 +1,6 @@
 ---
 title: "Developing a Platform for Ambient Air Quality and Greenhouse Gas (GHG) Measurements"
-excerpt: "This is a ongoing RBM group project for my mphil study in HKUST(GZ).<br/><img src='../images/overview_rbm2.png' width="300" height="200">"
+excerpt: "This is a ongoing RBM group project for my mphil study in HKUST(GZ).<br/><img src='../images/overview_rbm2.png' width=50%>"
 collection: portfolio
 ---
 
