@@ -13,7 +13,9 @@ Education
 ======
 * M.S. in Data Science and Analytics, Hong Kong University of Science and Technology(Guangzhou), 2024-2026(expected)
 * B.E. in Big Data and Application, Xi'an Jiaotong University, 2020-2024, 3.88/4.3(GBA)
+  * courses: Optimization Algorithms (96), Machine Learning (94), Data Analysis (100), Probability Theory (98), Econometrics (95), Management (93), Operational Research (94), Corporate Finance (97), Social Network and Text Analysis (96)
 * B.S. in Finacial Engineering, Xi'an Jiaotong University, 2021-2023, 86.85/100(score)
+  * courses: Digital Economy(92), Analysis of Financial Data(90)
 
 Work experience
 ======
