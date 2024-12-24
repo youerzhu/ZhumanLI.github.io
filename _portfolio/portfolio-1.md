@@ -39,6 +39,8 @@ collection: portfolio
 
 ![sensors](../../images/sensors.png)
 
+<img src="../../images/sensors.png" width="300" height="200" alt="sensors">
+
 #### Objective 2: Satellite-Sky-Ground GHG Monitoring System
 
 ![sensors](../../images/overview_rbm2.png)
