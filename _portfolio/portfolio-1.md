@@ -24,7 +24,7 @@ collection: portfolio
   * Ensuring a safe and healthy environment
   * Provide safer air for passengers and pilots of eVTOLs
 * Application Prospects
-  * Feasible for practical applications
+  * Feasible for practical applicationshht
   * Broad application prospects for related equipment 
 
 ---
@@ -74,17 +74,22 @@ collection: portfolio
 
 ### Project Milestones
 
-<img src="../../images/milestones.png">
+<img src="../../images/milestone.png">
 
 ### Progress
 
 #### Prototypes
 
 - Prototype for Prediction Model using satellites
+
 <img src="../../images/prototype_satellites.png" width="300" height="200">
+
 - Prototype for Prediction Model combining AI and physichemical information.
+  
 <img src="../../images/prototype_physic.png">
-- Prototype for Sensors.
+
+- Prototype for Sensors
+  
 <img src="../../images/prototype_sensor.png" width="300" height="200">
 
 ### Resources Identification
@@ -92,12 +97,17 @@ collection: portfolio
 #### Utilizing the following equipment and facilities on HKUST-GZ campus
 
 - Gas Chromatography Mass Spectrometry (GC-MS) at SAERF to measure the VOCs.
+
 <img src="../../images/G.png" width=30%>
 - Vocus-CIMS to analyze offline VOC and PM samples, but heavy for airborne measurement.
-<img src="../../images/V.png" width=30%>
+
+<img src="../../images/v.png" width=30%>
 - Environmental simulation chamber to simulate environmental conditions for sensor testing.
+
 <img src="../../images/E.png" width=30%>
+
 - Plate reader at Bio-CRF for analyzing cell toxicity.
+
 <img src="../../images/P.png" width=30%>
 
 #### Other equipment, materials, and supplies need to be purchased
@@ -105,7 +115,9 @@ collection: portfolio
 - Chemical materials for offline analysis of VOCs and particles.
 - A 3-D anemometer that can measure wind speed at a frequency high enough for eddy covariance measurements.
 - Drone that can carry enough payload.
-  <img src="../../images/dronr.png" width=30%>
+
+<img src="../../images/dronr.png" width=30%>
+
 - LI7500DS fast-response CO2 analyzer for eddy covariance measurement.
 - A Vocus-Elf for real-time measurement of VOCs in human-carrying eVTOLs.
   
