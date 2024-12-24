@@ -1,6 +1,6 @@
 ---
 title: "Developing a Platform for Ambient Air Quality and Greenhouse Gas (GHG) Measurements"
-excerpt: "This is a ongoing RBM group project for my mphil study in HKUST(GZ).<br/><img src='../images/overview_rbm2.png'>"
+excerpt: "This is a ongoing RBM group project for my mphil study in HKUST(GZ).<br/><img src='../images/overview_rbm2.png' width="300" height="200">"
 collection: portfolio
 ---
 
@@ -37,13 +37,12 @@ collection: portfolio
 
 - A platform for 3D air quality and GHG measurement.
 
-![sensors](../../images/sensors.png)
-
 <img src="../../images/sensors.png" width="300" height="200" alt="sensors">
 
 #### Objective 2: Satellite-Sky-Ground GHG Monitoring System
 
-![sensors](../../images/overview_rbm2.png)
+<img src="../../images/overview_rbm2.png" width="300" height="200" alt="Monitoring System">
+
 
 - Satellite Monitoring: Captures satellite data across extensive geographical areas.
 - Drone Measurement: Provides detailed examination and targeted local analysis in identified area (including flux measurement).
